@@ -1,31 +1,4 @@
-SDSDSD  1      1  1  1DASDASDAA  VVV     C  C  V
-DSADABDADASDASLASLDALL1231231241ITAYBEL2121D  DEDDD  DD SDS   SSOCKET CPP
-  C      VSCANNOT OPEMN  SYYSSOCKE H
- IN WINDOWS
- EX(
-  C        VS  C  VS
-  SONLINE ECHO SERVICE
-OINT SEND L OG F IILE T O S ERVER  9T    T V MUJ  ATB NH NUJE  8MUJE  8
-CBUDG KDTNT TCK RE  
-FK  EAUC JU  NFNMUC ZV JRTSCR AVUT KT DTNT TU NMUC TVUT JRTTU TRZHO VUT JRT
-T V N  DHHX GO 2005  
-  
-        
-  S                                        C       VS  C
-  V
-  S  C  C  VS  C  VADD AADDRESS'  '''''' '19027 0 0 1  SD DEFA(
-  SF        C
-  V  9'   STHH   SA A SAA    
-PRN 9   W AITN FO CNNCTON    STHAK AOT 
-  C C&  C   CCDDDDD
- CCD  R  
-PYTHONSE 
-AAA  S&SASSSA     S XXXZXZZINT EYS PRESSED   0  S  
-      S '      S  
-IF 9   Z ZKEY(S PRESSED    1'  
- V S S C
-    0  KGAU  UHRUX
-KT VHV KL  AHGUR  
+
      KT 
         CMD
 PYTHON   UP DATE S ERVER PY
